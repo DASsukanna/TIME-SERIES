@@ -77,7 +77,4 @@ The **ARIMA** model outperformed **Holt-Winters** and **LSTM** models, providing
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/time-series-analysis.git
+
